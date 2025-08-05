@@ -8,7 +8,6 @@ I am a results-driven and personable professional, known for my ability to foste
 
 * 🌍  I'm based in Tema Community 25
 * ✉️  You can contact me at [mawuli098@gmail.com](mailto:mawuli098@gmail.com)
-* 🚀  I'm currently working on [The backend of eHealth Software(s), i.e. mobile and web](http://https://www.ehealthgh.com/)
 * 🧠  I'm learning native mobile development and cross platform development using flutter
 * 🤝  I'm open to collaborating on Flutter and .Net projects
 * ⚡  I love basketball and I am batman... but don't tell anyone.
